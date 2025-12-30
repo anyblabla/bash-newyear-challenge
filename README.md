@@ -37,9 +37,9 @@ curl -sL https://gitea.blablalinux.be/blablalinux/bash-newyear-challenge/raw/bra
 
 ## 🔗 Liens utiles
 
-* **Dépôt GitHub :** 👉 [https://github.com/anyblabla/bash-newyear-challenge](https://www.google.com/search?q=https://github.com/anyblabla/bash-newyear-challenge)
+* **Dépôt GitHub :** 👉 [https://github.com/anyblabla/bash-newyear-challenge](https://github.com/anyblabla/bash-newyear-challenge)
 * **Dépôt Gitea :** 👉 [https://gitea.blablalinux.be/blablalinux/bash-newyear-challenge](https://gitea.blablalinux.be/blablalinux/bash-newyear-challenge)
-* **Tous mes liens, contenus et projets :** 👉 [https://link.blablalinux.be](https://link.blablalinux.be)
+* **Tous mes liens, contenus et projets :** 👉 [link.blablalinux.be](https://link.blablalinux.be)
 
 ---
 
