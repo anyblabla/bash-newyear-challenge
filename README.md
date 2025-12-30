@@ -22,14 +22,12 @@ Copie-colle simplement l'une de ces commandes dans ton terminal :
 
 ```bash
 curl -sL https://raw.githubusercontent.com/anyblabla/bash-newyear-challenge/main/destination2026.sh | bash
-
 ```
 
 ### Via Gitea (BlablaLinux)
 
 ```bash
 curl -sL https://gitea.blablalinux.be/blablalinux/bash-newyear-challenge/raw/branch/main/destination2026.sh | bash
-
 ```
 
 > [!TIP]
